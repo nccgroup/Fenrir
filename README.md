@@ -1,4 +1,11 @@
 # Fenrir
+Released as open source by NCC Group Plc - http://www.nccgroup.com/
+
+Developed by Dave Spencer, david [dot] spencer [at] nccgroup [dot] com
+
+http://www.github.com/nccgroup/Loki
+
+Released under AGPL see LICENSE for more information
 
 ## Description
 Fenrir was created to prove that it is possible to tunnel network traffic over an RDP virtual channel, however it is still in its infancy. This PoC was to designed to tunnel the meterpreter reverse http shell over the virtual channel The long term goal here will be to create a fully-fledged socks proxy, from Loki to Fenrir and vice versa.
