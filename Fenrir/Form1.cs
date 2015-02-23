@@ -8,6 +8,14 @@ using System.Text;
 using System.Windows.Forms;
 using Sleipnir;
 
+//Released as open source by NCC Group Plc - http://www.nccgroup.com/
+//
+//Developed by Dave Spencer, david [dot] spencer [at] nccgroup [dot] com
+//
+//http://www.github.com/nccgroup/Fenrir
+//
+//Released under AGPL see LICENSE for more information
+
 namespace Fenrir
 {
     public partial class Fenrir : Form

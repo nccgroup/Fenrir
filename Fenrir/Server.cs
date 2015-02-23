@@ -11,6 +11,15 @@ using System.IO;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
+//Released as open source by NCC Group Plc - http://www.nccgroup.com/
+//
+//Developed by Dave Spencer, david [dot] spencer [at] nccgroup [dot] com
+//
+//http://www.github.com/nccgroup/Fenrir
+//
+//Released under AGPL see LICENSE for more information
+
+
 namespace Fenrir
 {
     public class Server
